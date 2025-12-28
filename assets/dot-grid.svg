@@ -1,0 +1,113 @@
+<svg id="grid" viewBox="0 0 1280 1280" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+        <g fill="#333">
+            <circle cx="55" cy="33.5" r="20"/>
+            <circle cx="183" cy="33.5" r="20"/>
+            <circle cx="311" cy="33.5" r="20"/>
+            <circle cx="439" cy="33.5" r="20"/>
+            <circle cx="567" cy="33.5" r="20"/>
+            <circle cx="695" cy="33.5" r="20"/>
+            <circle cx="823" cy="33.5" r="20"/>
+            <circle cx="951" cy="33.5" r="20"/>
+            <circle cx="1079" cy="33.5" r="20"/>
+            <circle cx="1207" cy="33.5" r="20"/>
+            
+            <circle cx="55" cy="161.5" r="20"/>
+            <circle cx="183" cy="161.5" r="20"/>
+            <circle cx="311" cy="161.5" r="20"/>
+            <circle cx="439" cy="161.5" r="20"/>
+            <circle cx="567" cy="161.5" r="20"/>
+            <circle cx="695" cy="161.5" r="20"/>
+            <circle cx="823" cy="161.5" r="20"/>
+            <circle cx="951" cy="161.5" r="20"/>
+            <circle cx="1079" cy="161.5" r="20"/>
+            <circle cx="1207" cy="161.5" r="20"/>
+            
+            <circle cx="55" cy="289.5" r="20"/>
+            <circle cx="183" cy="289.5" r="20"/>
+            <circle cx="311" cy="289.5" r="20"/>
+            <circle cx="439" cy="289.5" r="20"/>
+            <circle cx="567" cy="289.5" r="20"/>
+            <circle cx="695" cy="289.5" r="20"/>
+            <circle cx="823" cy="289.5" r="20"/>
+            <circle cx="951" cy="289.5" r="20"/>
+            <circle cx="1079" cy="289.5" r="20"/>
+            <circle cx="1207" cy="289.5" r="20"/>
+            
+            <circle cx="55" cy="417.5" r="20"/>
+            <circle cx="183" cy="417.5" r="20"/>
+            <circle cx="311" cy="417.5" r="20"/>
+            <circle cx="439" cy="417.5" r="20"/>
+            <circle cx="567" cy="417.5" r="20"/>
+            <circle cx="695" cy="417.5" r="20"/>
+            <circle cx="823" cy="417.5" r="20"/>
+            <circle cx="951" cy="417.5" r="20"/>
+            <circle cx="1079" cy="417.5" r="20"/>
+            <circle cx="1207" cy="417.5" r="20"/>
+            
+            <circle cx="55" cy="545.5" r="20"/>
+            <circle cx="183" cy="545.5" r="20"/>
+            <circle cx="311" cy="545.5" r="20"/>
+            <circle cx="439" cy="545.5" r="20"/>
+            <circle cx="567" cy="545.5" r="20"/>
+            <circle cx="695" cy="545.5" r="20"/>
+            <circle cx="823" cy="545.5" r="20"/>
+            <circle cx="951" cy="545.5" r="20"/>
+            <circle cx="1079" cy="545.5" r="20"/>
+            <circle cx="1207" cy="545.5" r="20"/>
+            
+            <circle cx="55" cy="673.5" r="20"/>
+            <circle cx="183" cy="673.5" r="20"/>
+            <circle cx="311" cy="673.5" r="20"/>
+            <circle cx="439" cy="673.5" r="20"/>
+            <circle cx="567" cy="673.5" r="20"/>
+            <circle cx="695" cy="673.5" r="20"/>
+            <circle cx="823" cy="673.5" r="20"/>
+            <circle cx="951" cy="673.5" r="20"/>
+            <circle cx="1079" cy="673.5" r="20"/>
+            <circle cx="1207" cy="673.5" r="20"/>
+            
+            <circle cx="55" cy="801.5" r="20"/>
+            <circle cx="183" cy="801.5" r="20"/>
+            <circle cx="311" cy="801.5" r="20"/>
+            <circle cx="439" cy="801.5" r="20"/>
+            <circle cx="567" cy="801.5" r="20"/>
+            <circle cx="695" cy="801.5" r="20"/>
+            <circle cx="823" cy="801.5" r="20"/>
+            <circle cx="951" cy="801.5" r="20"/>
+            <circle cx="1079" cy="801.5" r="20"/>
+            <circle cx="1207" cy="801.5" r="20"/>
+            
+            <circle cx="55" cy="929.5" r="20"/>
+            <circle cx="183" cy="929.5" r="20"/>
+            <circle cx="311" cy="929.5" r="20"/>
+            <circle cx="439" cy="929.5" r="20"/>
+            <circle cx="567" cy="929.5" r="20"/>
+            <circle cx="695" cy="929.5" r="20"/>
+            <circle cx="823" cy="929.5" r="20"/>
+            <circle cx="951" cy="929.5" r="20"/>
+            <circle cx="1079" cy="929.5" r="20"/>
+            <circle cx="1207" cy="929.5" r="20"/>
+            
+            <circle cx="55" cy="1057.5" r="20"/>
+            <circle cx="183" cy="1057.5" r="20"/>
+            <circle cx="311" cy="1057.5" r="20"/>
+            <circle cx="439" cy="1057.5" r="20"/>
+            <circle cx="567" cy="1057.5" r="20"/>
+            <circle cx="695" cy="1057.5" r="20"/>
+            <circle cx="823" cy="1057.5" r="20"/>
+            <circle cx="951" cy="1057.5" r="20"/>
+            <circle cx="1079" cy="1057.5" r="20"/>
+            <circle cx="1207" cy="1057.5" r="20"/>
+            
+            <circle cx="55" cy="1185.5" r="20"/>
+            <circle cx="183" cy="1185.5" r="20"/>
+            <circle cx="311" cy="1185.5" r="20"/>
+            <circle cx="439" cy="1185.5" r="20"/>
+            <circle cx="567" cy="1185.5" r="20"/>
+            <circle cx="695" cy="1185.5" r="20"/>
+            <circle cx="823" cy="1185.5" r="20"/>
+            <circle cx="951" cy="1185.5" r="20"/>
+            <circle cx="1079" cy="1185.5" r="20"/>
+            <circle cx="1207" cy="1185.5" r="20"/>
+        </g>
+    </svg>
