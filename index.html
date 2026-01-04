@@ -21,12 +21,12 @@
                     <div class="nav__logo--title">Treact</div>
                 </div>
                 <div class="nav__links">
-                    <a class="nav__link">About</a>
-                    <a class="nav__link">Blog</a>
-                    <a class="nav__link">Pricing</a>
-                    <a class="nav__link">Contact Us</a>
-                    <a class="nav__link nav__link--login">Login</a>
-                    <a class="nav__link nav__link--primary">Sign Up</a>
+                    <a href="#about" class="nav__link">About</a>
+                    <a href="#blog" class="nav__link">Blog</a>
+                    <a href="#pricing" class="nav__link">Pricing</a>
+                    <a href="#contact__us" class="nav__link">Contact Us</a>
+                    <a href="#login" class="nav__link nav__link--login">Login</a>
+                    <a href="#signup" class="nav__link nav__link--primary">Sign Up</a>
                 </div>
                 <button class="btn__menu" onclick="openMenu()">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
@@ -39,7 +39,7 @@
                 </button>
             </div>
         </nav>
-        <div class="modal">
+        <div class="menu">
             <button class="btn__menu btn__menu--close" onclick="closeMenu()">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
@@ -48,13 +48,13 @@
                     <line x1="6" y1="6" x2="18" y2="18"></line>
                 </svg>
             </button>
-            <div class="modal__links">
-                <a class="modal__link">About</a>
-                <a class="modal__link">Blog</a>
-                <a class="modal__link">Pricing</a>
-                <a class="modal__link">Contact Us</a>
-                <a class="modal__link">Login</a>
-                <a class="modal__link modal__link--primary">Sign Up</a>
+            <div class="menu__links">
+                <a href="#about" class="menu__link" onclick="closeMenu()">About</a>
+                <a href="#blog" class="menu__link" onclick="closeMenu()">Blog</a>
+                <a href="#pricing" class="menu__link" onclick="closeMenu()">Pricing</a>
+                <a href="#contact__us" class="menu__link" onclick="closeMenu()">Contact Us</a>
+                <a href="#login" class="menu__link" onclick="closeMenu()">Login</a>
+                <a href="#signup" class="menu__link menu__link--primary" onclick="closeMenu()">Sign Up</a>
             </div>
         </div>
         <header>
@@ -277,8 +277,8 @@
         <section id="pricing">
             <div class="container">
                 <div class="row">
-                    <div class="section__tag"><P>PRICING</P></div>
-                    <h2 class="section__tag">
+                    <div class="section__tag">PRICING</div>
+                    <h2 class="section__title">
                         Reasonable & Flexible
                         <span class="purple">Plans.</span>
                     </h2>
@@ -291,7 +291,7 @@
                             <div class="plan__top">
                                 <div class="plan__name">PERSONAL</div>
                                 <div class="plan__price">$17.99</div>
-                                <div class="plan__description">MONTHLY</div>
+                                <div class="plan__duration">MONTHLY</div>
                             </div>
                             <div class="plan__middle">
                                 <div class="plan__target">For Individuals</div>
@@ -309,7 +309,7 @@
                             <div class="plan__top">
                                 <div class="plan__name">BUSINESS</div>
                                 <div class="plan__price">$37.99</div>
-                                <div class="plan__description">MONTHLY</div>
+                                <div class="plan__duration">MONTHLY</div>
                             </div>
                             <div class="plan__middle">
                                 <div class="plan__target">For Small Businesses</div>
@@ -327,7 +327,7 @@
                             <div class="plan__top">
                                 <div class="plan__name">ENTERPRISE</div>
                                 <div class="plan__price">$57.99</div>
-                                <div class="plan__description">MONTHLY</div>
+                                <div class="plan__duration">MONTHLY</div>
                             </div>
                             <div class="plan__middle">
                                 <div class="plan__target">For Large Companies</div>
